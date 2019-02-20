@@ -1,0 +1,27 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+}
+header.startup {
+	background-image: url(star.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+}
+
+.faded{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+header.startup h1{
+	position: relative;
+	align-items: center;
+	bottom: 150px;
+}
+
+.btn{
+	position: relative;
+	text-align: center;	
+}
+
