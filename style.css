@@ -23,5 +23,6 @@ header.startup h1{
 .btn{
 	position: relative;
 	text-align: center;	
+	left: 100px;
 }
 
